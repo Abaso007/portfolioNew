@@ -9,7 +9,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://www.mohitsojitra.tech/" target="_blank">mohitsojitra.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-mohitsojitra.vercel.app/" target="_blank">mohitsojitra</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
