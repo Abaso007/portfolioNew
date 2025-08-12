@@ -1,11 +1,3 @@
-# portfolio
-
-
-<h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://www.mohitsojitra.tech/" target="_blank">mohitsojitra.tech</a>
-</h2>
-
 
 ## Built With
 
